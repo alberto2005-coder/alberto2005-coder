@@ -22,7 +22,7 @@
 📩 Siempre abierto a colaborar, ¡envíame un DM!  
 </p>  
 
-💻 Orgulloso programador del **[Nekerit Team](https://github.com/NekeritStudio)** 🐙  
+💻 Orgulloso programador del **[NekeritStudio](https://github.com/NekeritStudio)** 🐙  
 
 </div>
 

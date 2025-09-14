@@ -10,6 +10,7 @@
 </div>
 
 <div align="center">
+ 
 ## 🚀 Sobre mí  
 
 <p align="center" style="text-align: left; max-width: 600px;">  

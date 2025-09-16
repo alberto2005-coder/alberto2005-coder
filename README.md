@@ -21,7 +21,7 @@
 🤖 Especialista en <b>bots de Discord</b> y automatización <br>
 🌐 Desarrollo de <b>páginas web y proyectos creativos</b> <br>
 💡 Amante del aprendizaje constante y nuevas tecnologías <br>
-📩 Siempre abierto a colaborar, ¡envíame un DM!  
+📩 No dudes en contactarme al correo o al discord (eldestructor7614)
 </p>  
 
 💻 Orgulloso programador del **[NekeritStudio](https://github.com/NekeritStudio)** 🐙  

@@ -28,7 +28,7 @@
 </div>
 
 ---
-
+<center>
 ## 🛠️ Tecnologías y Herramientas  
 
 ### 💻 Lenguajes de Programación
@@ -83,3 +83,4 @@
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 </div>
+</center>

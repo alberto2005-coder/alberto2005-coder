@@ -52,6 +52,7 @@
  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
+![Tailwind.css](https://img.shields.io/badge/Tailwind.css-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Discord.py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </div>

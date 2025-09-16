@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/alberto2005-coder?style=for-the-badge&logo=github&label=Followers&logoColor=white&color=1E1E1E&labelColor=000000)](https://github.com/alberto2005-coder?tab=followers)&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/alberto2005-coder?style=for-the-badge&logo=github&label=Stars&logoColor=white&color=1E1E1E&labelColor=000000)](https://github.com/alberto2005-coder)&nbsp;
 
-[![Top Languages](https://camo.githubusercontent.com/e968c53d6620b710f7fdd911e8eeda68e6712c8dcfb3702030e406eed4dd6954/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616c7661726f323230332673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)](https://github.com/alvaro2203)
+[![Top Languages](https://camo.githubusercontent.com/e968c53d6620b710f7fdd911e8eeda68e6712c8dcfb3702030e406eed4dd6954/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616c7661726f323230332673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)](https://github.com/alberto2005-coder)
 
 </div>
 

@@ -23,7 +23,7 @@
 📩 No dudes en contactarme al correo o al discord (eldestructor7614)
 </p>  
 
-💻 Orgulloso programador del **[NekeritStudio](https://github.com/NekeritStudio)** 🐙  
+💻 Orgulloso programador del **[NekeritStudio](https://github.com/NekeritStudio) y del [Lotus Games Studios](https://github.com/Lotus-Games-Studios)** 🐙  
 
 </div>
 

@@ -6,6 +6,16 @@
 [![GitHub followers](https://img.shields.io/github/followers/alberto2005-coder?style=for-the-badge&logo=github&label=Followers&logoColor=white&color=1E1E1E&labelColor=000000)](https://github.com/alberto2005-coder?tab=followers)&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/alberto2005-coder?style=for-the-badge&logo=github&label=Stars&logoColor=white&color=1E1E1E&labelColor=000000)](https://github.com/alberto2005-coder)&nbsp;
 
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Mis estadísticas de GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=alberto2005-coder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="160" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alberto2005-coder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="160" alt="Top languages" />
 
 </div>
 
@@ -20,7 +30,7 @@
 🤖 Especialista en <b>bots de Discord</b> y automatización <br>
 🌐 Desarrollo de <b>páginas web y proyectos creativos</b> <br>
 💡 Amante del aprendizaje constante y nuevas tecnologías <br>
-📩 No dudes en contactarme al correo o al discord (eldestructor7614)
+📩 Contáctame por correo o Discord (eldestructor7614)
 </p>  
 
 💻 Orgulloso programador del **[NekeritStudio](https://github.com/NekeritStudio)** 🐙  
@@ -28,6 +38,7 @@
 </div>
 
 ---
+
 <div align="center">
  
 ## 🛠️ Tecnologías y Herramientas  
@@ -39,14 +50,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 </div>
 
 ### 🤖 Bots & Backend
@@ -54,8 +60,8 @@
  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
-![Tailwind.css](https://img.shields.io/badge/Tailwind.css-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Tailwind.css](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;
 ![Discord.py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </div>
 
@@ -81,6 +87,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 </div>
+</div>
+

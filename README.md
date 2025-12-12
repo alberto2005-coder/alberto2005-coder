@@ -12,18 +12,6 @@
 
 <div align="center">
 
-## 📊 Mis estadísticas de GitHub
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto2005-coder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false)](https://github.com/alberto2005-coder)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alberto2005-coder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false)](https://github.com/alberto2005-coder)
-
-</div>
-
----
-
-<div align="center">
-
 ## 🚀 Sobre mí  
 
 <p align="center" style="text-align: justify; max-width: 700px;">  

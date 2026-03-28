@@ -66,9 +66,8 @@ Programador apasionado por la innovación y el desarrollo de soluciones creativa
   <br><br>
   <img src="https://github-readme-stats-seven-topaz.vercel.app/api/top-langs/?username=alberto2005-coder&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alberto2005-coder&theme=tokyonight" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alberto2005-coder&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---

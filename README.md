@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Alberto Ortiz Sánchez 
+# 👋 ¡Hola! Soy Alberto Ortiz 
 ### 🚀 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alberto2005-coder.github.io/)

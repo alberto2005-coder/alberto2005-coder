@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alberto2005-coder.github.io/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-Games-ff4b5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://alberto-coder2005.itch.io/)
-[![Discord](https://img.shields.io/badge/Discord-eldestructor7614-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/Discord-eldestructor7614-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1016814881112084533)
 
 <br>
 

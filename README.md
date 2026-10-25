@@ -75,10 +75,10 @@ Desarrollador multidisciplinar recién graduado como **Técnico Superior en DAM*
 | Unity Essentials | Unity Technologies | [![Credly](https://img.shields.io/badge/Credly-007bff?style=flat&logo=credly&logoColor=white)](https://www.credly.com/go/wv2ApmEO) |
 | Unity Junior Programmer | Unity Technologies | [![Credly](https://img.shields.io/badge/Credly-007bff?style=flat&logo=credly&logoColor=white)](https://www.credly.com/badges/48be8870-9d4e-439f-ab88-239d94d8c008/public_url) |
 | Explore Emerging Tech | IBM SkillsBuild | [![Credly](https://img.shields.io/badge/Credly-007bff?style=flat&logo=credly&logoColor=white)](https://www.credly.com/go/7d8BE7yL) |
-| Google Analytics Certification | Google Skillshop | [![Verificar](https://img.shields.io/badge/Verificar-34A853?style=flat&logo=googleanalytics&logoColor=white)](https://skillshop.credential.net/04a2d9e7-2253-47eb-990d-67dd32b87823) |
-| Google Ads Measurement Certification | Google Skillshop | [![Verificar](https://img.shields.io/badge/Verificar-34A853?style=flat&logo=googleads&logoColor=white)](https://skillshop.credential.net/c85d9678-babd-4690-9da2-ceabe2872223) |
-
-<sub><b>Otros cursos:</b> Desarrollo con IA (de 0 a agentes / de 0 a producción) y Ciberseguridad — BIG school · HTML y CSS, Marketing Digital y Desarrollo de Apps Móviles — Google Actívate · AutoCAD 3D y Gestión Medioambiental (cursos del SEPE).</sub>
+| Google Analytics Certification | Google Skillshop | [![Google Skillshop](https://img.shields.io/badge/Verificar-34A853?style=flat&logo=googleanalytics&logoColor=white)](https://skillshop.credential.net/04a2d9e7-2253-47eb-990d-67dd32b87823) |
+| Google Ads Measurement Certification | Google Skillshop | [![Google Skillshop](https://img.shields.io/badge/Verificar-34A853?style=flat&logo=googleads&logoColor=white)](https://skillshop.credential.net/c85d9678-babd-4690-9da2-ceabe2872223) |
+| Desarrollo de Apps Móviles | Google Actívate | [![Google Activate](https://img.shields.io/badge/Google_Actívate-FF6F00?style=flat&logo=google&logoColor=white)](https://skillshop.exceedlms.com/student/award/5Etf6Znbkzgh8DBBdberPdCB) |
+| Fundamentos de Marketing Digital | Google Actívate | [![Google Activate](https://img.shields.io/badge/Google_Actívate-FF6F00?style=flat&logo=google&logoColor=white)](https://skillshop.exceedlms.com/student/award/pf4aTetgRfY4qWkT4a5549ff) |
 
 ---
 

@@ -33,6 +33,7 @@
 - [Tecnologías y herramientas](#tecnologías-y-herramientas)
 - [Estadísticas](#estadísticas)
 - [Contacto](#contacto)
+- [Licencia](#licencia)
 
 ### Sobre mí
 
@@ -154,6 +155,10 @@ Desarrollador multidisciplinar recién graduado como **Técnico Superior en DAM*
   </p>
 </div>
 
+### Licencia
+
+Este repositorio se distribuye bajo la **Licencia MIT**. Consulta [LICENSE](LICENSE). © 2026 Alberto Ortiz Sánchez.
+
 ---
 
 ## English
@@ -168,6 +173,7 @@ Desarrollador multidisciplinar recién graduado como **Técnico Superior en DAM*
 - [Technologies and tools](#technologies-and-tools)
 - [Stats](#stats)
 - [Contact](#contact)
+- [License](#license)
 
 ### About me
 
@@ -288,3 +294,7 @@ A multidisciplinary developer recently graduated as a **Higher Technician in Mul
     <a href="https://alberto2005-coder.github.io/"><img src="https://img.shields.io/badge/Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   </p>
 </div>
+
+### License
+
+This repository is distributed under the **MIT License**. See [LICENSE](LICENSE). © 2026 Alberto Ortiz Sánchez.

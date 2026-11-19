@@ -4,7 +4,7 @@
 
 ### 🚀 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alberto2005-coder.github.io/)
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://albertoortiz.is-a.dev/)
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-Games-ff4b5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://alberto-coder2005.itch.io/)
 [![Game Jolt](https://img.shields.io/badge/Game_Jolt-Games-ff3f7f?style=for-the-badge&logo=gamejolt&logoColor=white)](https://gamejolt.com/@eldestructor1/games)
@@ -151,7 +151,7 @@ Desarrollador multidisciplinar recién graduado como **Técnico Superior en DAM*
   <p>💬 <b>¿Quieres colaborar o tienes un proyecto en mente? Escríbeme:</b></p>
   <p>
     <a href="mailto:albertoortixsanchez@gmail.com"><img src="https://img.shields.io/badge/Email-D83B01?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://alberto2005-coder.github.io/"><img src="https://img.shields.io/badge/Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://albertoortiz.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   </p>
 </div>
 
@@ -291,7 +291,7 @@ A multidisciplinary developer recently graduated as a **Higher Technician in Mul
   <p>💬 <b>Want to collaborate or have a project in mind? Get in touch:</b></p>
   <p>
     <a href="mailto:albertoortixsanchez@gmail.com"><img src="https://img.shields.io/badge/Email-D83B01?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://alberto2005-coder.github.io/"><img src="https://img.shields.io/badge/Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://albertoortiz.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   </p>
 </div>
 
